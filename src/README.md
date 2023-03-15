@@ -32,6 +32,13 @@ A property that indicates whether the song is popular. If the play count is less
 A method that prints a song description in this format:
 "[Title], performed by [artist], was released in [year published]."
 
+5. class Person(val name: String, val age: Int, val hobby: String?, val referrer: Person?) {
+   fun showProfile() {
+   // Fill in code
+   }
+   }
+  >> In the initial code provided in the following code snippet, write a program which prints out a person's profile details.
+
 
 
 
